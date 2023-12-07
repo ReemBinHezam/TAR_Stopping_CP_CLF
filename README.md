@@ -5,7 +5,7 @@ Repository for the code of the paper "Combining Counting Processes and Classific
 ## Instructions
 
 * All data should be placed in the subfolder named data, which contains subfolders for: rankings, qrels, and text.
-* The rankings for all datasets were provided, qrels and text could be downloaded from their corresponding links (as some require access agreements)
+* The rankings for datasets were provided, qrels and text could be downloaded from their corresponding links (as some require access agreements)
 * Links for the datasets files:
   * Link to [<u>CLEF datasets</u>](https://github.com/CLEF-TAR/tar)
   * Links to CLEF qrels: [<u>CLEF (2017, 2018, 2019)</u>](https://github.com/dli1/auto-stop-tar) 
